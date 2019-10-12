@@ -1,6 +1,5 @@
 # dd_pcard
-DD auto-punching
-
+钉钉自动打卡
 
 ## 依赖：
  *  python3<br>
